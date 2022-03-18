@@ -10,5 +10,5 @@ $TTL    604800
                          604800 )       ; Negative Cache TTL
 ;
 @       IN      NS      sena.co.local.
-3       IN      PTR     dns.sena.co.local.
-1       IN      PTR     pc.sena.co.local.
+103       IN      PTR     dns.sena.co.local.
+101       IN      PTR     pc.sena.co.local.
